@@ -113,6 +113,7 @@ curl -H 'Accept: application/json' -H "Authorization: Bearer ${TOKEN}" localhost
   * Dockerize the application located in **[src](/src)**
   * Push it to a public image in DockerHub tagged as **`wize-<firstName>-<lastName>:latest`**
   * Application should run in port **`8000`**
+ Docker Image: https://hub.docker.com/repository/docker/afloress/wize-aranza-flores
 <br />
 <br />
 
